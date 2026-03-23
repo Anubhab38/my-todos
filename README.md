@@ -7,8 +7,8 @@ This app allows users to securely log in, create, view, and delete their persona
 
 ## 🚀 Live Demo
 
-Frontend: https://your-vercel-link.vercel.app  
-Backend: https://your-render-link.onrender.com  
+Frontend: https://mytodos-one.vercel.app/  
+Backend: https://todo-backend-5itw.onrender.com 
 
 ---
 
